@@ -1,0 +1,14 @@
+mysql-connector-python
+pymongo
+beautifulsoup4
+certifi
+Flask
+Flask-Cors
+gunicorn
+requests
+urllib3
+click
+selenium
+webdriver-manager
+Flask-Session
+pytube

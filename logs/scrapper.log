@@ -1,0 +1,62 @@
+2022-09-11 14:57:22,906 - utils.logger - INFO - ----------------------------
+2022-09-11 14:57:23,683 - utils.logger - INFO - ----------------------------
+2022-09-11 14:57:39,691 - utils.logger - DEBUG - Url is b'https://www.youtube.com/user/krishnaik06/videos' of datatype <class 'bytes'>
+2022-09-11 14:57:39,693 - utils.logger - DEBUG -  various parts to join : [b'https', b'www.youtube.com', b'/user/krishnaik06/videos', b'', b'view=0&sort=dd&flow=grid', b''] datatype <class 'list'>
+2022-09-11 14:57:39,693 - utils.logger - DEBUG - Getting latest 3 videos from https://www.youtube.com/user/krishnaik06/videos?view=0&sort=dd&flow=grid
+2022-09-11 14:57:43,762 - utils.logger - DEBUG - url is https://www.youtube.com/user/krishnaik06/videos?view=0&sort=dd&flow=grid with type <class 'str'>
+2022-09-11 14:57:54,323 - utils.logger - DEBUG -  various parts to join : [b'https', b'www.youtube.com', b'/watch', b'', b'v=2CRY5BYf-js&autoplay=0', b''] datatype <class 'list'>
+2022-09-11 14:57:59,845 - utils.logger - DEBUG - Total_Comments : 26
+2022-09-11 14:58:02,591 - utils.logger - DEBUG -  various parts to join : [b'https', b'www.youtube.com', b'/watch', b'', b'v=pZakG-kIt_o&autoplay=0', b''] datatype <class 'list'>
+2022-09-11 14:58:08,025 - utils.logger - DEBUG - Total_Comments : 32
+2022-09-11 14:58:11,787 - utils.logger - DEBUG -  various parts to join : [b'https', b'www.youtube.com', b'/watch', b'', b'v=4VVhwfVf1k8&autoplay=0', b''] datatype <class 'list'>
+2022-09-11 14:58:17,809 - utils.logger - DEBUG - Total_Comments : 8
+2022-09-11 14:58:34,668 - utils.logger - DEBUG - Data type of videos <class 'list'>
+2022-09-11 14:58:34,668 - utils.logger - DEBUG - Length of videos 3
+2022-09-11 19:21:06,600 - utils.logger - INFO - ----------------------------
+2022-09-11 19:21:58,314 - utils.logger - INFO - ----------------------------
+2022-09-11 19:22:01,271 - utils.logger - INFO - ----------------------------
+2022-09-11 19:22:23,840 - utils.logger - INFO - ----------------------------
+2022-09-11 19:22:46,185 - utils.logger - INFO - ----------------------------
+2022-09-11 19:23:09,640 - utils.logger - INFO - ----------------------------
+2022-09-11 19:23:22,887 - utils.logger - INFO - ----------------------------
+2022-09-11 19:23:43,199 - utils.logger - INFO - ----------------------------
+2022-09-11 19:23:49,381 - utils.logger - INFO - ----------------------------
+2022-09-11 19:24:16,014 - utils.logger - INFO - ----------------------------
+2022-09-11 19:24:27,216 - utils.logger - INFO - ----------------------------
+2022-09-11 19:24:36,251 - utils.logger - INFO - ----------------------------
+2022-09-11 19:25:14,585 - utils.logger - INFO - ----------------------------
+2022-09-11 19:26:00,407 - utils.logger - INFO - ----------------------------
+2022-09-11 19:26:30,300 - utils.logger - INFO - ----------------------------
+2022-09-11 19:56:05,589 - utils.logger - INFO - ----------------------------
+2022-09-11 22:16:35,262 - utils.logger - INFO - ----------------------------
+2022-09-11 22:16:36,856 - utils.logger - INFO - ----------------------------
+2022-09-11 22:17:30,042 - utils.logger - DEBUG - Url is b'https://www.youtube.com/c/HiteshChoudharydotcom/videos' of datatype <class 'bytes'>
+2022-09-11 22:17:30,042 - utils.logger - DEBUG -  various parts to join : [b'https', b'www.youtube.com', b'/c/HiteshChoudharydotcom/videos', b'', b'view=0&sort=dd&flow=grid', b''] datatype <class 'list'>
+2022-09-11 22:17:30,042 - utils.logger - DEBUG - Getting latest 10 videos from https://www.youtube.com/c/HiteshChoudharydotcom/videos?view=0&sort=dd&flow=grid
+2022-09-11 22:17:34,846 - utils.logger - DEBUG - url is https://www.youtube.com/c/HiteshChoudharydotcom/videos?view=0&sort=dd&flow=grid with type <class 'str'>
+2022-09-11 22:17:46,357 - utils.logger - DEBUG -  various parts to join : [b'https', b'www.youtube.com', b'/watch', b'', b'v=cMMCz3C1E7A&autoplay=0', b''] datatype <class 'list'>
+2022-09-11 22:19:04,761 - utils.logger - DEBUG - Url is b'https://www.youtube.com/c/HiteshChoudharydotcom/videos' of datatype <class 'bytes'>
+2022-09-11 22:19:04,762 - utils.logger - DEBUG -  various parts to join : [b'https', b'www.youtube.com', b'/c/HiteshChoudharydotcom/videos', b'', b'view=0&sort=dd&flow=grid', b''] datatype <class 'list'>
+2022-09-11 22:19:04,763 - utils.logger - DEBUG - Getting latest 10 videos from https://www.youtube.com/c/HiteshChoudharydotcom/videos?view=0&sort=dd&flow=grid
+2022-09-11 22:19:08,365 - utils.logger - DEBUG - url is https://www.youtube.com/c/HiteshChoudharydotcom/videos?view=0&sort=dd&flow=grid with type <class 'str'>
+2022-09-11 22:19:17,264 - utils.logger - DEBUG -  various parts to join : [b'https', b'www.youtube.com', b'/watch', b'', b'v=cMMCz3C1E7A&autoplay=0', b''] datatype <class 'list'>
+2022-09-11 22:19:24,908 - utils.logger - DEBUG - Total_Comments : 5
+2022-09-11 22:19:25,482 - utils.logger - DEBUG -  various parts to join : [b'https', b'www.youtube.com', b'/watch', b'', b'v=ULMH3lxygXY&autoplay=0', b''] datatype <class 'list'>
+2022-09-11 22:19:30,986 - utils.logger - DEBUG - Total_Comments : 10
+2022-09-11 22:19:31,568 - utils.logger - DEBUG -  various parts to join : [b'https', b'www.youtube.com', b'/watch', b'', b'v=de6Q0I4yMI8&autoplay=0', b''] datatype <class 'list'>
+2022-09-11 22:19:38,228 - utils.logger - DEBUG - Total_Comments : 12
+2022-09-11 22:19:39,506 - utils.logger - DEBUG -  various parts to join : [b'https', b'www.youtube.com', b'/watch', b'', b'v=JrZfUktGano&autoplay=0', b''] datatype <class 'list'>
+2022-09-11 22:19:44,861 - utils.logger - DEBUG - Total_Comments : 31
+2022-09-11 22:19:47,186 - utils.logger - DEBUG -  various parts to join : [b'https', b'www.youtube.com', b'/watch', b'', b'v=gEIP87k75aU&autoplay=0', b''] datatype <class 'list'>
+2022-09-11 22:19:51,440 - utils.logger - DEBUG - Total_Comments : 34
+2022-09-11 22:19:54,109 - utils.logger - DEBUG -  various parts to join : [b'https', b'www.youtube.com', b'/watch', b'', b'v=3vs-gk9evzw&autoplay=0', b''] datatype <class 'list'>
+2022-09-11 22:19:58,258 - utils.logger - DEBUG - Total_Comments : 159
+2022-09-11 22:20:15,862 - utils.logger - DEBUG -  various parts to join : [b'https', b'www.youtube.com', b'/watch', b'', b'v=kvm8tsRj6BM&autoplay=0', b''] datatype <class 'list'>
+2022-09-11 22:20:20,128 - utils.logger - DEBUG - Total_Comments : 19
+2022-09-11 22:20:22,446 - utils.logger - DEBUG -  various parts to join : [b'https', b'www.youtube.com', b'/watch', b'', b'v=JjWRNtBorMw&autoplay=0', b''] datatype <class 'list'>
+2022-09-11 22:20:26,828 - utils.logger - DEBUG - Total_Comments : 25
+2022-09-11 22:20:31,273 - utils.logger - DEBUG -  various parts to join : [b'https', b'www.youtube.com', b'/watch', b'', b'v=j89BvWz8Eag&autoplay=0', b''] datatype <class 'list'>
+2022-09-11 22:20:36,601 - utils.logger - DEBUG - Total_Comments : 77
+2022-09-11 22:21:19,116 - utils.logger - DEBUG - Data type of videos <class 'list'>
+2022-09-11 22:21:19,116 - utils.logger - DEBUG - Length of videos 10
+2022-09-11 22:22:13,452 - utils.logger - INFO - ----------------------------
